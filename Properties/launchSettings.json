@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ConsoleApp5": {
+      "commandName": "Project",
+      "commandLineArgs": "client-side"
+    }
+  }
+}

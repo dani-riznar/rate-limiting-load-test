@@ -1,0 +1,17 @@
+C:\Users\danielri\source\repos\ConsoleApp5\ConsoleApp5\bin\Release\net7.0\RateLimitingLoadTest.exe
+C:\Users\danielri\source\repos\ConsoleApp5\ConsoleApp5\bin\Release\net7.0\RateLimitingLoadTest.deps.json
+C:\Users\danielri\source\repos\ConsoleApp5\ConsoleApp5\bin\Release\net7.0\RateLimitingLoadTest.runtimeconfig.json
+C:\Users\danielri\source\repos\ConsoleApp5\ConsoleApp5\bin\Release\net7.0\RateLimitingLoadTest.dll
+C:\Users\danielri\source\repos\ConsoleApp5\ConsoleApp5\bin\Release\net7.0\RateLimitingLoadTest.pdb
+C:\Users\danielri\source\repos\ConsoleApp5\ConsoleApp5\bin\Release\net7.0\System.Threading.RateLimiting.dll
+C:\Users\danielri\source\repos\ConsoleApp5\ConsoleApp5\obj\Release\net7.0\RateLimitingLoadTest.csproj.AssemblyReference.cache
+C:\Users\danielri\source\repos\ConsoleApp5\ConsoleApp5\obj\Release\net7.0\RateLimitingLoadTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danielri\source\repos\ConsoleApp5\ConsoleApp5\obj\Release\net7.0\RateLimitingLoadTest.AssemblyInfoInputs.cache
+C:\Users\danielri\source\repos\ConsoleApp5\ConsoleApp5\obj\Release\net7.0\RateLimitingLoadTest.AssemblyInfo.cs
+C:\Users\danielri\source\repos\ConsoleApp5\ConsoleApp5\obj\Release\net7.0\RateLimitingLoadTest.csproj.CoreCompileInputs.cache
+C:\Users\danielri\source\repos\ConsoleApp5\ConsoleApp5\obj\Release\net7.0\RateLimitingLoadTest.csproj.CopyComplete
+C:\Users\danielri\source\repos\ConsoleApp5\ConsoleApp5\obj\Release\net7.0\RateLimitingLoadTest.dll
+C:\Users\danielri\source\repos\ConsoleApp5\ConsoleApp5\obj\Release\net7.0\refint\RateLimitingLoadTest.dll
+C:\Users\danielri\source\repos\ConsoleApp5\ConsoleApp5\obj\Release\net7.0\RateLimitingLoadTest.pdb
+C:\Users\danielri\source\repos\ConsoleApp5\ConsoleApp5\obj\Release\net7.0\RateLimitingLoadTest.genruntimeconfig.cache
+C:\Users\danielri\source\repos\ConsoleApp5\ConsoleApp5\obj\Release\net7.0\ref\RateLimitingLoadTest.dll

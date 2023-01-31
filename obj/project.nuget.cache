@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pEQbSSEBTOxUJdYkgk8pv3N0n804AIg2xmmy4DVov2zLleBFnVmRHU33WNKDxcU80uWqVXXAeoylNEgBTsqh4w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\danielri\\source\\repos\\ConsoleApp5\\ConsoleApp5\\RateLimitingLoadTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\danielri\\.nuget\\packages\\system.threading.ratelimiting\\7.0.0\\system.threading.ratelimiting.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
